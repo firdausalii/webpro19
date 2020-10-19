@@ -1,0 +1,12 @@
+body{
+    background-attachment: fixed;
+    font-family:tahoma;
+
+}
+footer{
+    background-color: beige;
+    width: 100%;
+    height: 100px;
+    position: fixed;
+    bottom: 10px;
+}

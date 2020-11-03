@@ -1,0 +1,31 @@
+.bgcolor {
+    background-color: aquamarine;
+}
+.font{
+    text-align: center;
+    text-decoration: double;
+    line-height: normal;
+    font-size: small;
+    font-weight: 200;
+    font-style: oblique;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.footer {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-bottom: 0%;
+}
+.navbar {
+    position: absolute;
+    float: left;
+    display: contents;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.konten {
+    margin: auto;
+    border: 2px;
+    padding: 1px;
+    width: max-content;
+    font-family: fantasy;
+    font-style: inherit;
+}
